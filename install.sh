@@ -11,24 +11,27 @@ sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython
 sudo apt-get install python3-numpy python3-scipy python3-matplotlib ipython3 ipython-notebook python3-pandas python3-sympy python3-nose python3-pip python3-dev
 
 #Install python build essentials
-sudo apt-get install build-essential
+sudo apt-get install build-essential manpages-dev
 
 #Install proxy
 sudo apt-get install npm nodejs-legacy
 sudo npm install -g configurable-http-proxy
 
 #Install python 2-3 pip (for updating python packages)
-sudo pip install --upgrade pip
-sudo pip3 install --upgrade pip
-
-#Install python 2-3 virtualenv (for updating development)
-sudo pip install --upgrade virtualenv
-sudo pip3 install --upgrade virtualenv
-
-#Install jupyternotebook
-sudo pip install "ipython[notebook]"
-sudo pip3 install "ipython[notebook]"
+sudo apt-get install python-setuptools
+sudo easy_install pip
+sudo -H pip install --upgrade pip
+sudo pip -H install pylab --upgrade
+sudo -H pip install --upgrade virtualenv
+sudo pip -H install "ipython[notebook]"
 sudo ipython kernelspec install-self
+
+sudo apt-get install python3-setuptools
+sudo easy_install3 pip
+sudo -H pip install --upgrade pip
+sudo pip -H install pylab --upgrade
+sudo -H pip install --upgrade virtualenv
+sudo pip -H install "ipython[notebook]"
 sudo ipython3 kernelspec install-self
 
 #Install java
@@ -56,6 +59,12 @@ sudo apt-get install figlet
 #Install texlive and texmaker
 sudo apt-get install texlive-full
 sudo apt-get install texmaker
+
+#Install gnuplot
+sudo apt-get install gnuplot-x11
+
+#Install w3m - for downloading html text
+sudo apt-get install w3m
 
 #Get all installed programs up to date
 sudo apt-get update
