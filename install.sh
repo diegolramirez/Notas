@@ -21,17 +21,17 @@ sudo npm install -g configurable-http-proxy
 sudo apt-get install python-setuptools
 sudo easy_install pip
 sudo -H pip install --upgrade pip
-sudo pip -H install pylab --upgrade
+sudo -H pip install --upgrade pylab
 sudo -H pip install --upgrade virtualenv
-sudo pip -H install "ipython[notebook]"
+sudo -H pip install "ipython[notebook]"
 sudo ipython kernelspec install-self
 
 sudo apt-get install python3-setuptools
 sudo easy_install3 pip
 sudo -H pip install --upgrade pip
-sudo pip -H install pylab --upgrade
+sudo -H pip install --upgrade pylab
 sudo -H pip install --upgrade virtualenv
-sudo pip -H install "ipython[notebook]"
+sudo -H pip install "ipython[notebook]"
 sudo ipython3 kernelspec install-self
 
 #Install java
@@ -53,8 +53,9 @@ git config --global core.editor gedit
 sudo apt-get install curl
 sudo apt-get install libcurl3 php5-curl
 
-#Install figlet
+#Install figlet and toilet
 sudo apt-get install figlet
+sudo apt-get install toilet
 
 #Install texlive and texmaker
 sudo apt-get install texlive-full
