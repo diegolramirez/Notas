@@ -1,0 +1,269 @@
+Version 1.25
+******************************************** Units *******************************************
+System CGS
+TemperatureUnit K
+MomentUnit emu
+AppliedFieldUnit G
+ 
+******************************************** Setup ********************************************
+ 
+Experiment CustomField
+Minor False
+Acquisition Continuous
+EditedPoint No
+MaxField 15000
+FieldIncrement 100
+Points 7
+MinField 0
+RampRate 10
+AverageTime 0.1
+TimeInterval 0
+TimeConstant 0.1
+TimeConstantIndex 0
+Sensitivity -0.0053
+SensitivityIndex 5
+SensitivityY -400
+SensitivityIndexY 0
+SaturationField 8000
+ExperimentTime 100
+Use735Domains True
+AutoRangeEnabled False
+NumberOfVertices 2
+VertexPts
+0
+6
+VertexField
+775.5102
+1224.4898
+StartAngle 0
+EndAngle 0
+AngleIncrement 0
+StartTemp 0
+FinishTemp 0
+TempIncrement 0
+TempPoints 0
+LengthofSetPointsArray 7
+SetPointArray
+775.5102
+850.34014
+925.17007
+1000
+1074.82993
+1149.65986
+1224.4898
+FieldDomainFile C:\IDEASVSM\Default UserID\Experiments\FORCexp0004B\fdomain.ini
+TempDomainFile C:\IDEASVSM\Default UserID\Experiments\FORCexp0004B\tdomain.ini
+NumSelectedResults 0
+ResultsSelected 
+UserName1 
+UserValue1 
+UserName2 
+UserValue2 
+LinearBackgroundCorrection Off
+MaxLinearFieldCorrection 
+MinLinearFieldCorrection 
+AutoLinearCorrection Off
+FitOneRegion Off
+BackgroundMode Off
+BackgroundFilename 
+AutoCenter Off
+OffsetCorrection 
+SmoothDeriv Off
+DerivOrder 0
+DerivPoints 0
+MinExFieldOne 
+MaxExFieldOne 
+MinExFieldTwo 
+MaxExFieldTwo 
+MinPinFieldOne 
+MaxPinFieldOne 
+MinPinFieldTwo 
+MaxPinFieldTwo 
+HCenterStart 
+Mass 
+Volume 
+Density 
+MolarWeight 
+NumberOfMoles 
+Demagnetization 
+SampleArea 
+Thickness 
+MomentScaling 0
+XAxis 0
+YAxis 0
+SimpleSpinValve False
+HsatMax 0
+HsatMin 0
+FieldAutoRange False
+ 
+*************************************************** Experiment Data ********************************************
+ 
+DataPoints 7
+MomentX Data
+0.00401138
+0.00372439
+0.00343071
+0.00362329
+0.00420278
+0.00447352
+0.00447593
+MomentY Data
+-0.00767708
+-0.00705719
+-0.00720024
+-0.00720024
+-0.00677109
+-0.00677109
+-0.00705719
+Field Data
+775.565
+792.08
+832.092
+882.594
+939.312
+1001.27
+1062.13
+Time Data
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+Temperature Data
+0
+0
+0
+0
+0
+0
+0
+Angle Data
+0
+0
+0
+0
+0
+0
+0
+Bx Data
+0
+0
+0
+0
+0
+0
+0
+Hint Data
+0
+0
+0
+0
+0
+0
+0
+Torque Data
+-5.9540745502
+-5.5898590552
+-5.99126210208
+-6.35488862256
+-6.36016609008
+-6.7796892843
+-7.4956532147
+dMdH Data
+-1.73775355737209E-05
+-7.33979806058184E-06
+3.81331432418517E-06
+1.02170386826052E-05
+4.36973433616321E-06
+3.95990798554129E-08
+3.95990798554129E-08
+dMdT Data
+0
+0
+0
+0
+0
+0
+0
+ 
+*********************************************** Results ***************************************
+ 
+TotalArea 0
+AreaFirstQuad 0
+AreaSecondQuad 0
+AreaThirdQuad 0
+AreaFourthQuad 0
+Coercivity 0
+PositiveCoercivity 0
+NegativeCoercivity 0
+Retentivity 1.74887883772328E-02
+PositiveRetentivity 1.74887883772328E-02
+NegativeRetentivity 0
+Magnetization 0.00447593
+PositiveMagnetization 0.00447593
+NegativeMagnetization 0.00343071
+Flatness 0.744068605357085
+Squareness 3.9072971152884
+SStar 0
+SFD1 0
+SFD2 0
+Slope 0
+Intercept 0
+SlopeAtHc 3.95990798554129E-08
+dH1 -503.201052388585
+dH2 258.3015
+InitialSlope -1.73775355737209E-05
+FieldAtHalfMs 1062.13
+FieldAtMs 1062.13
+MomentMean 3.99171428571429E-03
+MomentRMS 4.1502241244127E-04
+SFD3 0
+dH3 -1006.40210477717
+UserField1 0
+UserField2 0
+CenterField 0
+ExchangeField 0
+ExchangeMoment 0
+ExRegionOneIntercept 0
+ExRegionOneSlope 0
+ExRegionTwoIntercept 0
+ExRegionTwoSlope 0
+NegativeIntercept 0
+NegativeSlope 0
+AutoCenterOffset 0
+PinningField 0
+PinningMoment 0
+PinRegionOneIntercept 0
+PinRegionOneSlope 0
+PinRegionTwoIntercept 0
+PinRegionTwoSlope 0
+PositiveIntercept 0
+PositiveSlope 0
+TotalOffset 0
+BHMax 0
+BCoercivity 0
+BRetentivity 0
+BNegativeCoercivity 0
+BPositiveCoercivity 0
+BNegativeRetentivity 0
+BPositiveRetentivity 0
+MomentYMean -7.10487428571429E-03
+MomentYRMS 3.09025376350506E-04
+YOffCorrection 0
+Mrt 0
+Ms1 0
+Ms2 0
+Ms3 0
+Hc2 0
+Hex2 0
+HsatValue 0
+HsatIntercept 0
+HsatSlope 0
+CenterH 0
+Span .00104522
+SpanAsPercentOfRange -19.7211320754717
+RMSAsPercentOfRange -7.83061155549566
+SpanAsPercentOfMean 26.1847398181948
+RMSAsPercentOfMean 10.3970971551388

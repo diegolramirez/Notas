@@ -1,0 +1,629 @@
+Version 1.25
+******************************************** Units *******************************************
+System CGS
+TemperatureUnit K
+MomentUnit emu
+AppliedFieldUnit G
+ 
+******************************************** Setup ********************************************
+ 
+Experiment CustomField
+Minor False
+Acquisition Continuous
+EditedPoint No
+MaxField 15000
+FieldIncrement 100
+Points 37
+MinField 0
+RampRate 10
+AverageTime 0.1
+TimeInterval 0
+TimeConstant 0.1
+TimeConstantIndex 0
+Sensitivity -0.0053
+SensitivityIndex 5
+SensitivityY -400
+SensitivityIndexY 0
+SaturationField 8000
+ExperimentTime 100
+Use735Domains True
+AutoRangeEnabled False
+NumberOfVertices 2
+VertexPts
+0
+36
+VertexField
+-2442.1769
+251.7007
+StartAngle 0
+EndAngle 0
+AngleIncrement 0
+StartTemp 0
+FinishTemp 0
+TempIncrement 0
+TempPoints 0
+LengthofSetPointsArray 37
+SetPointArray
+-2442.17687
+-2367.34694
+-2292.51701
+-2217.68707
+-2142.85714
+-2068.02721
+-1993.19728
+-1918.36735
+-1843.53741
+-1768.70748
+-1693.87755
+-1619.04762
+-1544.21769
+-1469.38776
+-1394.55782
+-1319.72789
+-1244.89796
+-1170.06803
+-1095.2381
+-1020.40816
+-945.57823
+-870.7483
+-795.91837
+-721.08844
+-646.2585
+-571.42857
+-496.59864
+-421.76871
+-346.93878
+-272.10884
+-197.27891
+-122.44898
+-47.61905
+27.21088
+102.04082
+176.87075
+251.70068
+FieldDomainFile C:\IDEASVSM\Default UserID\Experiments\FORCexp0047B\fdomain.ini
+TempDomainFile C:\IDEASVSM\Default UserID\Experiments\FORCexp0047B\tdomain.ini
+NumSelectedResults 0
+ResultsSelected 
+UserName1 
+UserValue1 
+UserName2 
+UserValue2 
+LinearBackgroundCorrection Off
+MaxLinearFieldCorrection 
+MinLinearFieldCorrection 
+AutoLinearCorrection Off
+FitOneRegion Off
+BackgroundMode Off
+BackgroundFilename 
+AutoCenter Off
+OffsetCorrection 
+SmoothDeriv Off
+DerivOrder 0
+DerivPoints 0
+MinExFieldOne 
+MaxExFieldOne 
+MinExFieldTwo 
+MaxExFieldTwo 
+MinPinFieldOne 
+MaxPinFieldOne 
+MinPinFieldTwo 
+MaxPinFieldTwo 
+HCenterStart 
+Mass 
+Volume 
+Density 
+MolarWeight 
+NumberOfMoles 
+Demagnetization 
+SampleArea 
+Thickness 
+MomentScaling 0
+XAxis 0
+YAxis 0
+SimpleSpinValve False
+HsatMax 0
+HsatMin 0
+FieldAutoRange False
+ 
+*************************************************** Experiment Data ********************************************
+ 
+DataPoints 37
+MomentX Data
+-0.00482215
+-0.00495682
+-0.00442761
+-0.005053
+-0.00530462
+-0.00501555
+-0.00419202
+-0.00414283
+-0.00409941
+-0.00432393
+-0.00441627
+-0.00400331
+-0.00430465
+-0.00465645
+-0.00427135
+-0.00470659
+-0.00469454
+-0.00510335
+-0.00516669
+-0.00455829
+-0.0045916
+-0.00413245
+-0.00401421
+-0.00431908
+-0.00430918
+-0.0036366
+-0.00334942
+-0.00303039
+-0.00325374
+-0.00352829
+-0.0038546
+-0.00341084
+-0.00286328
+-0.00245926
+-0.00312036
+-0.00372715
+-0.00378113
+MomentY Data
+-0.00553131
+-0.00600815
+-0.00553131
+-0.00567436
+-0.00610352
+-0.00658035
+-0.00638962
+-0.00567436
+-0.00581741
+-0.00629425
+-0.00629425
+-0.00610352
+-0.00581741
+-0.00610352
+-0.00600815
+-0.00658035
+-0.00658035
+-0.00567436
+-0.00610352
+-0.00581741
+-0.00600815
+-0.00553131
+-0.00505447
+-0.00553131
+-0.00581741
+-0.00567436
+-0.00472069
+-0.00581741
+-0.00581741
+-0.00567436
+-0.00638962
+-0.00553131
+-0.00567436
+-0.00629425
+-0.00600815
+-0.00610352
+-0.00610352
+Field Data
+-2442.06
+-2436.93
+-2403.82
+-2353.11
+-2292.16
+-2225.17
+-2147.89
+-2076.55
+-2003.02
+-1929.48
+-1856.44
+-1788.35
+-1711.73
+-1637.71
+-1560.68
+-1484.72
+-1404.44
+-1333.44
+-1261.24
+-1189.44
+-1115.92
+-1044.09
+-974.557
+-902.863
+-826.925
+-752.47
+-667.751
+-601.823
+-530.713
+-459.913
+-384.713
+-312.46
+-245.384
+-171.966
+-95.3801
+-21.3347
+63.6221
+Time Data
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+2
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.5
+3.6
+Temperature Data
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Angle Data
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Bx Data
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Hint Data
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Torque Data
+13.5077908986
+14.6414409795
+13.2962736042
+13.3523932596
+13.9902444032
+14.6423974095
+13.7242009018
+11.783092258
+11.6523885782
+12.14462949
+11.68489747
+10.915229992
+9.9578352193
+9.9957957392
+9.376799542
+9.769977252
+9.241706754
+7.5664185984
+7.6980035648
+6.9194601504
+6.704614748
+5.7751854579
+4.92586911979
+4.99401514053
+4.81056176425
+4.2697856692
+3.15224546819
+3.50105113843
+3.08737511333
+2.60971193068
+2.45816987906
+1.7283131226
+1.39239715424
+1.0823969955
+0.573057947815
+0.130216768144
+-0.388318759792
+dMdH Data
+-2.62514619883035E-05
+1.59833887043191E-05
+-1.23326760007888E-05
+-4.12830188679244E-06
+4.31512165994927E-06
+1.06564440993788E-05
+6.89514998598267E-07
+5.90507275941787E-07
+-3.05303236333968E-06
+-1.26423877327492E-06
+6.06491408430017E-06
+-3.93291568780997E-06
+-4.75276952175088E-06
+4.99935090224588E-06
+-5.72985781990521E-06
+1.50099651220733E-07
+-5.75788732394367E-06
+-8.77285318559548E-07
+8.47353760445682E-06
+-4.53073993471164E-07
+6.39217597104273E-06
+1.70048753829118E-06
+-4.25237816274724E-06
+1.30369511970294E-07
+9.03337586461622E-06
+3.38979449710218E-06
+4.83906686081786E-06
+-3.14090845169456E-06
+-3.87782485875706E-06
+-4.33922872340426E-06
+6.1417518995751E-06
+8.16327747629554E-06
+5.50301016099594E-06
+-8.63213724719563E-06
+-8.19483722148844E-06
+-6.35381746958458E-07
+-6.35381746958458E-07
+dMdT Data
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+ 
+*********************************************** Results ***************************************
+ 
+TotalArea 0
+AreaFirstQuad 0
+AreaSecondQuad 0
+AreaThirdQuad 0
+AreaFourthQuad 0
+Coercivity 0
+PositiveCoercivity 0
+NegativeCoercivity 0
+Retentivity 3.25945447920998E-02
+PositiveRetentivity -6.89297952631565E-02
+NegativeRetentivity -3.74070567895683E-03
+Magnetization 0.00530462
+PositiveMagnetization -0.00245926
+NegativeMagnetization -0.00530462
+Flatness 1.11476477744409
+Squareness 6.14455791217841
+SStar 0
+SFD1 0
+SFD2 0
+Slope 0
+Intercept 0
+SlopeAtHc -6.35381746958458E-07
+dH1 -620.813896129338
+dH2 1327.79105
+InitialSlope -2.62514619883035E-05
+FieldAtHalfMs 63.6221
+FieldAtMs -171.966
+MomentMean -4.15137864864865E-03
+MomentRMS 6.94294683602488E-04
+SFD3 0
+dH3 -1241.62779225868
+UserField1 0
+UserField2 0
+CenterField 0
+ExchangeField 0
+ExchangeMoment 0
+ExRegionOneIntercept 0
+ExRegionOneSlope 0
+ExRegionTwoIntercept 0
+ExRegionTwoSlope 0
+NegativeIntercept 0
+NegativeSlope 0
+AutoCenterOffset 0
+PinningField 0
+PinningMoment 0
+PinRegionOneIntercept 0
+PinRegionOneSlope 0
+PinRegionTwoIntercept 0
+PinRegionTwoSlope 0
+PositiveIntercept 0
+PositiveSlope 0
+TotalOffset 0
+BHMax 0
+BCoercivity 0
+BRetentivity 0
+BNegativeCoercivity 0
+BPositiveCoercivity 0
+BNegativeRetentivity 0
+BPositiveRetentivity 0
+MomentYMean -5.90375918918919E-03
+MomentYRMS 4.0003228877581E-04
+YOffCorrection 0
+Mrt 0
+Ms1 0
+Ms2 0
+Ms3 0
+Hc2 0
+Hex2 0
+HsatValue 0
+HsatIntercept 0
+HsatSlope 0
+CenterH 0
+Span .00284536
+SpanAsPercentOfRange -53.6860377358491
+RMSAsPercentOfRange -13.099899690613
+SpanAsPercentOfMean -68.540122229665
+RMSAsPercentOfMean -16.7244364430234

@@ -1,0 +1,68 @@
+Start Time:  5/5/2017 1:28:45 AM          Time Completed:  5/5/2017 1:29:07 AM      Elapsed Time:  00:00:22
+Sample ID:     FORC_desvirgao3
+
+Experiment:    C:\IDEASVSM\Default UserID\Experiments\FORCexp0027B\FORCexp0027B.exp
+Data File:     C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao3 (ProfileData)\FORC_desvirgao3#53.txt
+Plot File:     C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao3 (ProfileData)\FORC_desvirgao3#53.oc2
+VSM Exp File:  C:\IDEASVSM\Default UserID\Experiments\FORCexp0027B\FORCexp0027B.stp
+VSM Data File: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao3 (ProfileData)\FORC_desvirgao3#53.dat
+
+***DATA***
+
+Field(G)	 Moment(emu)	
+ 838.465 	 0.00405814 	
+ 845.714 	 0.00409923 	
+ 855.054 	 0.004078 	
+ 865.248 	 0.00409163 	
+ 875.122 	 0.00412583 	
+ 885.064 	 0.00408584 	
+ 895.206 	 0.00412539 	
+ 905.076 	 0.00412144 	
+ 914.946 	 0.0041165 	
+ 925.085 	 0.00412322 	
+ 934.685 	 0.00413512 	
+ 944.62 	 0.00414892 	
+ 954.901 	 0.00418262 	
+ 964.615 	 0.00417863 	
+ 974.361 	 0.00419284 	
+ 984.867 	 0.00418537 	
+ 994.285 	 0.00421326 	
+ 1004.24 	 0.00419407 	
+ 1014.41 	 0.00417982 	
+ 1024.28 	 0.00418614 	
+ 1034.3 	 0.00419816 	
+ 1044.2 	 0.00423214 	
+ 1054.11 	 0.00420848 	
+ 1064.11 	 0.0042406 	
+ 1074.01 	 0.00423897 	
+ 1083.73 	 0.00427778 	
+ 1093.59 	 0.00423996 	
+ 1103.9 	 0.00425725 	
+ 1113.82 	 0.00423577 	
+ 1123.67 	 0.00428165 	
+ 1133.45 	 0.00425088 	
+ 1143.28 	 0.00429052 	
+ 1153.59 	 0.00425647 	
+ 1163.31 	 0.00430826 	
+ 1173.03 	 0.0042862 	
+ 1183.34 	 0.00429186 	
+ 1192.94 	 0.00430426 	
+ 1202.92 	 0.00434054 	
+ 1212.94 	 0.00429036 	
+ 1222.92 	 0.00431169 	
+ 1232.81 	 0.00433559 	
+ 1242.71 	 0.0043509 	
+ 1252.39 	 0.00432951 	
+ 1262.39 	 0.00429864 	
+ 1272.57 	 0.00435218 	
+ 1282.42 	 0.00433502 	
+ 1292.33 	 0.00434586 	
+ 1302.12 	 0.00436829 	
+ 1312.08 	 0.00438209 	
+ 1322.25 	 0.00436194 	
+ 1331.83 	 0.00437335 	
+ 1341.79 	 0.00436826 	
+ 1351.97 	 0.00437736 	
+
+	
+	

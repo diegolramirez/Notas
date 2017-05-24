@@ -1,0 +1,68 @@
+Start Time:  5/4/2017 10:56:08 PM         Time Completed:  5/4/2017 10:56:19 PM     Elapsed Time:  00:00:11
+Sample ID:     FORC_desvirgao2
+
+Experiment:    C:\IDEASVSM\Default UserID\Experiments\FORCexp0027B\FORCexp0027B.exp
+Data File:     C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao2 (ProfileData)\FORC_desvirgao2#53.txt
+Plot File:     C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao2 (ProfileData)\FORC_desvirgao2#53.oc2
+VSM Exp File:  C:\IDEASVSM\Default UserID\Experiments\FORCexp0027B\FORCexp0027B.stp
+VSM Data File: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao2 (ProfileData)\FORC_desvirgao2#53.dat
+
+***DATA***
+
+Field(G)	 Moment(emu)	
+ 651.149 	 0.00388331 	
+ 656.151 	 0.0038253 	
+ 670.363 	 0.00386105 	
+ 687.771 	 0.0038957 	
+ 708.144 	 0.00389183 	
+ 732.864 	 0.00380377 	
+ 753.035 	 0.00381004 	
+ 774.963 	 0.00403875 	
+ 798.105 	 0.00419322 	
+ 820.485 	 0.00403023 	
+ 847.475 	 0.00406476 	
+ 868.261 	 0.00386152 	
+ 890.518 	 0.00386498 	
+ 913.196 	 0.0041786 	
+ 935.993 	 0.00424536 	
+ 958.451 	 0.00402884 	
+ 980.415 	 0.00404636 	
+ 1003.39 	 0.00395188 	
+ 1026.46 	 0.00397595 	
+ 1048.95 	 0.00404408 	
+ 1075.51 	 0.00423599 	
+ 1096.12 	 0.00436957 	
+ 1117.85 	 0.00440539 	
+ 1140.67 	 0.00425647 	
+ 1163.58 	 0.0042914 	
+ 1184.27 	 0.00421831 	
+ 1207.52 	 0.00430792 	
+ 1230.98 	 0.004421 	
+ 1253.86 	 0.00436886 	
+ 1276.78 	 0.00432078 	
+ 1302.7 	 0.00418644 	
+ 1322.21 	 0.00413616 	
+ 1344.94 	 0.0043173 	
+ 1367.83 	 0.00447514 	
+ 1390.58 	 0.00441734 	
+ 1413.02 	 0.00420381 	
+ 1434.77 	 0.00417214 	
+ 1457.37 	 0.00425427 	
+ 1479.84 	 0.00452338 	
+ 1506.35 	 0.0042943 	
+ 1527.81 	 0.00428803 	
+ 1548.91 	 0.00423577 	
+ 1571.22 	 0.0042755 	
+ 1594.05 	 0.00436472 	
+ 1616.89 	 0.00452662 	
+ 1642.52 	 0.00470036 	
+ 1663.75 	 0.00464684 	
+ 1685.47 	 0.00454685 	
+ 1707.63 	 0.00442054 	
+ 1729.96 	 0.00434832 	
+ 1752.88 	 0.00444204 	
+ 1774.49 	 0.00456693 	
+ 1796.6 	 0.00466194 	
+
+	
+	

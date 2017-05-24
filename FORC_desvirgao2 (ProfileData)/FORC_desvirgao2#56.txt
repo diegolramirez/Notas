@@ -1,0 +1,16 @@
+Start Time:  5/4/2017 10:56:53 PM         Time Completed:  5/4/2017 10:57:04 PM     Elapsed Time:  00:00:11
+Sample ID:     FORC_desvirgao2
+
+Experiment:    C:\IDEASVSM\Default UserID\Experiments\FORCexp0029A\FORCexp0029A.exp
+Data File:     C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao2 (ProfileData)\FORC_desvirgao2#56.txt
+Plot File:     C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao2 (ProfileData)\FORC_desvirgao2#56.oc2
+VSM Exp File:  C:\IDEASVSM\Default UserID\Experiments\FORCexp0029A\FORCexp0029A.stp
+VSM Data File: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao2 (ProfileData)\FORC_desvirgao2#56.dat
+
+***DATA***
+
+Field(G)	 Moment(emu)	
+ 603.833 	 0.00389286 	
+
+	
+	

@@ -1,0 +1,704 @@
+Lake Shore Cryotronics, Inc.
+Vibrating Sample Magnetometer
+***   Profile Execution Log   ***
+
+Profile Name:  FORC
+Report Date:   5/4/2017 9:35:58 PM
+User ID:       Default UserID
+
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:35:58 PM completed at 5/4/2017 9:36:07 PM
+
+FORCexp0001 began 5/4/2017 9:36:07 PM completed 5/4/2017 9:36:16 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#1.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#1.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#1.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0001\FORCexp0001.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:36:16 PM completed at 5/4/2017 9:36:22 PM
+
+FORCexp0002A began 5/4/2017 9:36:22 PM completed 5/4/2017 9:36:32 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#2.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#2.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#2.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0002A\FORCexp0002A.stp
+
+FORCexp0002B began 5/4/2017 9:36:32 PM completed 5/4/2017 9:36:39 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#3.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#3.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#3.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0002B\FORCexp0002B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:36:39 PM completed at 5/4/2017 9:36:46 PM
+
+FORCexp0003A began 5/4/2017 9:36:46 PM completed 5/4/2017 9:37:17 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#4.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#4.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#4.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0003A\FORCexp0003A.stp
+
+FORCexp0003B began 5/4/2017 9:37:17 PM completed 5/4/2017 9:37:24 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#5.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#5.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#5.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0003B\FORCexp0003B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:37:24 PM completed at 5/4/2017 9:37:31 PM
+
+FORCexp0004A began 5/4/2017 9:37:31 PM completed 5/4/2017 9:37:41 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#6.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#6.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#6.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0004A\FORCexp0004A.stp
+
+FORCexp0004B began 5/4/2017 9:37:41 PM completed 5/4/2017 9:37:48 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#7.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#7.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#7.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0004B\FORCexp0004B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:37:48 PM completed at 5/4/2017 9:37:55 PM
+
+FORCexp0005A began 5/4/2017 9:37:55 PM completed 5/4/2017 9:38:43 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#8.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#8.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#8.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0005A\FORCexp0005A.stp
+
+FORCexp0005B began 5/4/2017 9:38:43 PM completed 5/4/2017 9:38:50 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#9.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#9.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#9.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0005B\FORCexp0005B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:38:50 PM completed at 5/4/2017 9:38:57 PM
+
+FORCexp0006A began 5/4/2017 9:38:57 PM completed 5/4/2017 9:39:07 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#10.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#10.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#10.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0006A\FORCexp0006A.stp
+
+FORCexp0006B began 5/4/2017 9:39:07 PM completed 5/4/2017 9:39:14 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#11.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#11.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#11.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0006B\FORCexp0006B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:39:14 PM completed at 5/4/2017 9:39:21 PM
+
+FORCexp0007A began 5/4/2017 9:39:21 PM completed 5/4/2017 9:39:31 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#12.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#12.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#12.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0007A\FORCexp0007A.stp
+
+FORCexp0007B began 5/4/2017 9:39:31 PM completed 5/4/2017 9:39:38 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#13.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#13.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#13.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0007B\FORCexp0007B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:39:38 PM completed at 5/4/2017 9:39:45 PM
+
+FORCexp0008A began 5/4/2017 9:39:45 PM completed 5/4/2017 9:39:55 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#14.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#14.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#14.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0008A\FORCexp0008A.stp
+
+FORCexp0008B began 5/4/2017 9:39:55 PM completed 5/4/2017 9:40:02 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#15.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#15.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#15.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0008B\FORCexp0008B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:40:02 PM completed at 5/4/2017 9:40:09 PM
+
+FORCexp0009A began 5/4/2017 9:40:09 PM completed 5/4/2017 9:40:19 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#16.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#16.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#16.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0009A\FORCexp0009A.stp
+
+FORCexp0009B began 5/4/2017 9:40:19 PM completed 5/4/2017 9:40:27 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#17.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#17.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#17.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0009B\FORCexp0009B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:40:27 PM completed at 5/4/2017 9:40:34 PM
+
+FORCexp0010A began 5/4/2017 9:40:34 PM completed 5/4/2017 9:40:44 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#18.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#18.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#18.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0010A\FORCexp0010A.stp
+
+FORCexp0010B began 5/4/2017 9:40:44 PM completed 5/4/2017 9:40:52 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#19.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#19.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#19.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0010B\FORCexp0010B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:40:52 PM completed at 5/4/2017 9:40:58 PM
+
+FORCexp0011A began 5/4/2017 9:40:58 PM completed 5/4/2017 9:41:37 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#20.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#20.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#20.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0011A\FORCexp0011A.stp
+
+FORCexp0011B began 5/4/2017 9:41:37 PM completed 5/4/2017 9:41:45 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#21.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#21.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#21.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0011B\FORCexp0011B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:41:45 PM completed at 5/4/2017 9:41:51 PM
+
+FORCexp0012A began 5/4/2017 9:41:51 PM completed 5/4/2017 9:42:02 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#22.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#22.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#22.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0012A\FORCexp0012A.stp
+
+FORCexp0012B began 5/4/2017 9:42:02 PM completed 5/4/2017 9:42:10 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#23.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#23.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#23.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0012B\FORCexp0012B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:42:10 PM completed at 5/4/2017 9:42:16 PM
+
+FORCexp0013A began 5/4/2017 9:42:16 PM completed 5/4/2017 9:42:27 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#24.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#24.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#24.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0013A\FORCexp0013A.stp
+
+FORCexp0013B began 5/4/2017 9:42:27 PM completed 5/4/2017 9:42:35 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#25.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#25.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#25.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0013B\FORCexp0013B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:42:35 PM completed at 5/4/2017 9:42:41 PM
+
+FORCexp0014A began 5/4/2017 9:42:41 PM completed 5/4/2017 9:43:24 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#26.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#26.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#26.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0014A\FORCexp0014A.stp
+
+FORCexp0014B began 5/4/2017 9:43:24 PM completed 5/4/2017 9:43:33 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#27.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#27.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#27.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0014B\FORCexp0014B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:43:33 PM completed at 5/4/2017 9:43:39 PM
+
+FORCexp0015A began 5/4/2017 9:43:39 PM completed 5/4/2017 9:43:50 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#28.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#28.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#28.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0015A\FORCexp0015A.stp
+
+FORCexp0015B began 5/4/2017 9:43:50 PM completed 5/4/2017 9:43:59 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#29.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#29.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#29.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0015B\FORCexp0015B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:43:59 PM completed at 5/4/2017 9:44:05 PM
+
+FORCexp0016A began 5/4/2017 9:44:05 PM completed 5/4/2017 9:44:53 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#30.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#30.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#30.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0016A\FORCexp0016A.stp
+
+FORCexp0016B began 5/4/2017 9:44:53 PM completed 5/4/2017 9:45:02 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#31.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#31.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#31.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0016B\FORCexp0016B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:45:02 PM completed at 5/4/2017 9:45:08 PM
+
+FORCexp0017A began 5/4/2017 9:45:08 PM completed 5/4/2017 9:45:41 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#32.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#32.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#32.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0017A\FORCexp0017A.stp
+
+FORCexp0017B began 5/4/2017 9:45:41 PM completed 5/4/2017 9:45:51 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#33.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#33.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#33.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0017B\FORCexp0017B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:45:51 PM completed at 5/4/2017 9:45:57 PM
+
+FORCexp0018A began 5/4/2017 9:45:57 PM completed 5/4/2017 9:46:08 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#34.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#34.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#34.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0018A\FORCexp0018A.stp
+
+FORCexp0018B began 5/4/2017 9:46:08 PM completed 5/4/2017 9:46:17 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#35.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#35.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#35.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0018B\FORCexp0018B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:46:17 PM completed at 5/4/2017 9:46:23 PM
+
+FORCexp0019A began 5/4/2017 9:46:23 PM completed 5/4/2017 9:46:34 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#36.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#36.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#36.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0019A\FORCexp0019A.stp
+
+FORCexp0019B began 5/4/2017 9:46:34 PM completed 5/4/2017 9:46:44 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#37.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#37.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#37.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0019B\FORCexp0019B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:46:44 PM completed at 5/4/2017 9:46:49 PM
+
+FORCexp0020A began 5/4/2017 9:46:49 PM completed 5/4/2017 9:47:01 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#38.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#38.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#38.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0020A\FORCexp0020A.stp
+
+FORCexp0020B began 5/4/2017 9:47:01 PM completed 5/4/2017 9:47:11 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#39.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#39.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#39.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0020B\FORCexp0020B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:47:11 PM completed at 5/4/2017 9:47:17 PM
+
+FORCexp0021A began 5/4/2017 9:47:17 PM completed 5/4/2017 9:47:52 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#40.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#40.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#40.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0021A\FORCexp0021A.stp
+
+FORCexp0021B began 5/4/2017 9:47:52 PM completed 5/4/2017 9:48:02 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#41.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#41.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#41.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0021B\FORCexp0021B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:48:02 PM completed at 5/4/2017 9:48:08 PM
+
+FORCexp0022A began 5/4/2017 9:48:08 PM completed 5/4/2017 9:48:45 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#42.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#42.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#42.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0022A\FORCexp0022A.stp
+
+FORCexp0022B began 5/4/2017 9:48:45 PM completed 5/4/2017 9:48:55 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#43.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#43.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#43.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0022B\FORCexp0022B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:48:55 PM completed at 5/4/2017 9:49:01 PM
+
+FORCexp0023A began 5/4/2017 9:49:01 PM completed 5/4/2017 9:49:50 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#44.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#44.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#44.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0023A\FORCexp0023A.stp
+
+FORCexp0023B began 5/4/2017 9:49:50 PM completed 5/4/2017 9:50:00 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#45.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#45.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#45.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0023B\FORCexp0023B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:50:00 PM completed at 5/4/2017 9:50:06 PM
+
+FORCexp0024A began 5/4/2017 9:50:06 PM completed 5/4/2017 9:50:18 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#46.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#46.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#46.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0024A\FORCexp0024A.stp
+
+FORCexp0024B began 5/4/2017 9:50:18 PM completed 5/4/2017 9:50:28 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#47.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#47.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#47.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0024B\FORCexp0024B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:50:28 PM completed at 5/4/2017 9:50:34 PM
+
+FORCexp0025A began 5/4/2017 9:50:34 PM completed 5/4/2017 9:50:46 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#48.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#48.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#48.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0025A\FORCexp0025A.stp
+
+FORCexp0025B began 5/4/2017 9:50:46 PM completed 5/4/2017 9:50:56 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#49.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#49.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#49.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0025B\FORCexp0025B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:50:56 PM completed at 5/4/2017 9:51:02 PM
+
+FORCexp0026A began 5/4/2017 9:51:02 PM completed 5/4/2017 9:51:14 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#50.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#50.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#50.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0026A\FORCexp0026A.stp
+
+FORCexp0026B began 5/4/2017 9:51:14 PM completed 5/4/2017 9:51:24 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#51.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#51.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#51.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0026B\FORCexp0026B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:51:24 PM completed at 5/4/2017 9:51:30 PM
+
+FORCexp0027A began 5/4/2017 9:51:30 PM completed 5/4/2017 9:51:42 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#52.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#52.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#52.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0027A\FORCexp0027A.stp
+
+FORCexp0027B began 5/4/2017 9:51:42 PM completed 5/4/2017 9:51:52 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#53.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#53.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#53.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0027B\FORCexp0027B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:51:52 PM completed at 5/4/2017 9:51:58 PM
+
+FORCexp0028A began 5/4/2017 9:51:58 PM completed 5/4/2017 9:52:29 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#54.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#54.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#54.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0028A\FORCexp0028A.stp
+
+FORCexp0028B began 5/4/2017 9:52:29 PM completed 5/4/2017 9:52:39 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#55.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#55.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#55.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0028B\FORCexp0028B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:52:39 PM completed at 5/4/2017 9:52:45 PM
+
+FORCexp0029A began 5/4/2017 9:52:45 PM completed 5/4/2017 9:52:58 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#56.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#56.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#56.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0029A\FORCexp0029A.stp
+
+FORCexp0029B began 5/4/2017 9:52:58 PM completed 5/4/2017 9:53:08 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#57.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#57.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#57.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0029B\FORCexp0029B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:53:08 PM completed at 5/4/2017 9:53:15 PM
+
+FORCexp0030A began 5/4/2017 9:53:15 PM completed 5/4/2017 9:53:47 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#58.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#58.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#58.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0030A\FORCexp0030A.stp
+
+FORCexp0030B began 5/4/2017 9:53:47 PM completed 5/4/2017 9:53:57 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#59.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#59.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#59.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0030B\FORCexp0030B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:53:57 PM completed at 5/4/2017 9:54:04 PM
+
+FORCexp0031A began 5/4/2017 9:54:04 PM completed 5/4/2017 9:54:17 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#60.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#60.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#60.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0031A\FORCexp0031A.stp
+
+FORCexp0031B began 5/4/2017 9:54:17 PM completed 5/4/2017 9:54:27 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#61.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#61.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#61.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0031B\FORCexp0031B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:54:27 PM completed at 5/4/2017 9:54:34 PM
+
+FORCexp0032A began 5/4/2017 9:54:34 PM completed 5/4/2017 9:54:47 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#62.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#62.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#62.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0032A\FORCexp0032A.stp
+
+FORCexp0032B began 5/4/2017 9:54:47 PM completed 5/4/2017 9:54:57 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#63.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#63.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#63.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0032B\FORCexp0032B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:54:57 PM completed at 5/4/2017 9:55:04 PM
+
+FORCexp0033A began 5/4/2017 9:55:04 PM completed 5/4/2017 9:55:17 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#64.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#64.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#64.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0033A\FORCexp0033A.stp
+
+FORCexp0033B began 5/4/2017 9:55:17 PM completed 5/4/2017 9:55:27 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#65.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#65.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#65.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0033B\FORCexp0033B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:55:27 PM completed at 5/4/2017 9:55:34 PM
+
+FORCexp0034A began 5/4/2017 9:55:34 PM completed 5/4/2017 9:56:17 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#66.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#66.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#66.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0034A\FORCexp0034A.stp
+
+FORCexp0034B began 5/4/2017 9:56:17 PM completed 5/4/2017 9:56:27 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#67.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#67.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#67.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0034B\FORCexp0034B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:56:27 PM completed at 5/4/2017 9:56:34 PM
+
+FORCexp0035A began 5/4/2017 9:56:34 PM completed 5/4/2017 9:56:47 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#68.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#68.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#68.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0035A\FORCexp0035A.stp
+
+FORCexp0035B began 5/4/2017 9:56:47 PM completed 5/4/2017 9:56:57 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#69.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#69.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#69.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0035B\FORCexp0035B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:56:57 PM completed at 5/4/2017 9:57:04 PM
+
+FORCexp0036A began 5/4/2017 9:57:04 PM completed 5/4/2017 9:57:17 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#70.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#70.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#70.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0036A\FORCexp0036A.stp
+
+FORCexp0036B began 5/4/2017 9:57:17 PM completed 5/4/2017 9:57:27 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#71.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#71.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#71.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0036B\FORCexp0036B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:57:27 PM completed at 5/4/2017 9:57:34 PM
+
+FORCexp0037A began 5/4/2017 9:57:34 PM completed 5/4/2017 9:58:25 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#72.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#72.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#72.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0037A\FORCexp0037A.stp
+
+FORCexp0037B began 5/4/2017 9:58:25 PM completed 5/4/2017 9:58:35 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#73.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#73.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#73.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0037B\FORCexp0037B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:58:35 PM completed at 5/4/2017 9:58:42 PM
+
+FORCexp0038A began 5/4/2017 9:58:42 PM completed 5/4/2017 9:59:13 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#74.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#74.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#74.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0038A\FORCexp0038A.stp
+
+FORCexp0038B began 5/4/2017 9:59:13 PM completed 5/4/2017 9:59:23 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#75.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#75.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#75.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0038B\FORCexp0038B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 9:59:23 PM completed at 5/4/2017 9:59:31 PM
+
+FORCexp0039A began 5/4/2017 9:59:31 PM completed 5/4/2017 10:00:04 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#76.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#76.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#76.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0039A\FORCexp0039A.stp
+
+FORCexp0039B began 5/4/2017 10:00:04 PM completed 5/4/2017 10:00:14 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#77.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#77.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#77.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0039B\FORCexp0039B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 10:00:14 PM completed at 5/4/2017 10:00:22 PM
+
+FORCexp0040A began 5/4/2017 10:00:22 PM completed 5/4/2017 10:01:11 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#78.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#78.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#78.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0040A\FORCexp0040A.stp
+
+FORCexp0040B began 5/4/2017 10:01:11 PM completed 5/4/2017 10:01:21 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#79.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#79.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#79.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0040B\FORCexp0040B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 10:01:21 PM completed at 5/4/2017 10:01:29 PM
+
+FORCexp0041A began 5/4/2017 10:01:29 PM completed 5/4/2017 10:01:43 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#80.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#80.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#80.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0041A\FORCexp0041A.stp
+
+FORCexp0041B began 5/4/2017 10:01:43 PM completed 5/4/2017 10:01:53 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#81.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#81.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#81.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0041B\FORCexp0041B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 10:01:53 PM completed at 5/4/2017 10:02:01 PM
+
+FORCexp0042A began 5/4/2017 10:02:01 PM completed 5/4/2017 10:02:48 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#82.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#82.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#82.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0042A\FORCexp0042A.stp
+
+FORCexp0042B began 5/4/2017 10:02:48 PM completed 5/4/2017 10:02:58 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#83.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#83.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#83.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0042B\FORCexp0042B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 10:02:58 PM completed at 5/4/2017 10:03:06 PM
+
+FORCexp0043A began 5/4/2017 10:03:06 PM completed 5/4/2017 10:03:55 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#84.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#84.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#84.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0043A\FORCexp0043A.stp
+
+FORCexp0043B began 5/4/2017 10:03:55 PM completed 5/4/2017 10:04:05 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#85.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#85.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#85.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0043B\FORCexp0043B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 10:04:05 PM completed at 5/4/2017 10:04:13 PM
+
+FORCexp0044A began 5/4/2017 10:04:13 PM completed 5/4/2017 10:04:27 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#86.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#86.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#86.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0044A\FORCexp0044A.stp
+
+FORCexp0044B began 5/4/2017 10:04:27 PM completed 5/4/2017 10:04:37 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#87.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#87.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#87.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0044B\FORCexp0044B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 10:04:37 PM completed at 5/4/2017 10:04:45 PM
+
+FORCexp0045A began 5/4/2017 10:04:45 PM completed 5/4/2017 10:05:39 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#88.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#88.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#88.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0045A\FORCexp0045A.stp
+
+FORCexp0045B began 5/4/2017 10:05:39 PM completed 5/4/2017 10:05:49 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#89.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#89.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#89.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0045B\FORCexp0045B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 10:05:49 PM completed at 5/4/2017 10:05:57 PM
+
+FORCexp0046A began 5/4/2017 10:05:57 PM completed 5/4/2017 10:06:11 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#90.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#90.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#90.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0046A\FORCexp0046A.stp
+
+FORCexp0046B began 5/4/2017 10:06:11 PM completed 5/4/2017 10:06:21 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#91.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#91.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#91.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0046B\FORCexp0046B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 10:06:21 PM completed at 5/4/2017 10:06:29 PM
+
+FORCexp0047A began 5/4/2017 10:06:29 PM completed 5/4/2017 10:06:44 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#92.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#92.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#92.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0047A\FORCexp0047A.stp
+
+FORCexp0047B began 5/4/2017 10:06:44 PM completed 5/4/2017 10:06:54 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#93.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#93.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#93.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0047B\FORCexp0047B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 10:06:54 PM completed at 5/4/2017 10:07:03 PM
+
+FORCexp0048A began 5/4/2017 10:07:03 PM completed 5/4/2017 10:07:18 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#94.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#94.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#94.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0048A\FORCexp0048A.stp
+
+FORCexp0048B began 5/4/2017 10:07:18 PM completed 5/4/2017 10:07:28 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#95.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#95.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#95.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0048B\FORCexp0048B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 10:07:28 PM completed at 5/4/2017 10:07:37 PM
+
+FORCexp0049A began 5/4/2017 10:07:37 PM completed 5/4/2017 10:08:31 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#96.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#96.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#96.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0049A\FORCexp0049A.stp
+
+FORCexp0049B began 5/4/2017 10:08:31 PM completed 5/4/2017 10:08:41 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#97.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#97.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#97.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0049B\FORCexp0049B.stp
+
+Executed RAMP(FIELD, 3000) at 5/4/2017 10:08:41 PM completed at 5/4/2017 10:08:50 PM
+
+FORCexp0050A began 5/4/2017 10:08:50 PM completed 5/4/2017 10:09:05 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#98.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#98.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#98.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0050A\FORCexp0050A.stp
+
+FORCexp0050B began 5/4/2017 10:09:05 PM completed 5/4/2017 10:09:15 PM
+The data file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#99.txt
+The plot file from this experiment is C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#99.oc2
+VSM data is stored in: C:\IDEASVSM\Default UserID\CarlosHernandez\FORC_floopy\FORC_desvirgao (ProfileData)\FORC_desvirgao#99.dat
+VSM experiment is: C:\IDEASVSM\Default UserID\Experiments\FORCexp0050B\FORCexp0050B.stp
+
+Executed RAMP(FIELD, 0) at 5/4/2017 10:09:15 PM completed at 5/4/2017 10:09:19 PM
